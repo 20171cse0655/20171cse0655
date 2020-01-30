@@ -1,0 +1,17 @@
+
+<html>
+<title>div tag exampled</title>
+</head>
+
+<body>
+<div id ="menu" align="middle">
+<a href="https://www.google.com :">home</a>|
+<a href="https://www.facebook.com"contact</a>|
+<a href="https://in.yahoo.com/?p=us"about</a>
+</div>
+<div id="content"align="left"bgcolor="blue">
+<h5>content article</h5>
+<p>actual content goes here</p>
+</div>
+</body>
+</html>

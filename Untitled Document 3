@@ -1,9 +1,71 @@
 <html>
+<a name="bookmark_name "></a>
 <address><q><bdo><strong>shubham sharma</strong></bdo></q></address>
-<ol >
+<ol type="i">
 <li>shubham sharma </li>
 <li>address</li>
 <li>college name </li>
 </ol>
+
+
+<dl>
+<dt>html</dt>
+<dd>hyper text markup language </ddd>
+<dt>dog</dt>
+<dd>a human's best friend</dd>
+</dl>
+< href="#bookmark_name">go to book
+
+
+
+<ul type="square">
+<li>list items...</li>
+<li>list item 
+<ol type="i"start ="1">
+<li>list item ...</li>
+<li>list item ...</li>
+<li>list item ...</li>
+</ol>
+</li>
+<li>list items...</li>
+</ul>
+
+<table border="1">
+<tr>
+<th>column 1 header </th>
+<th>column 2 header </th>
+<th>column 3 header </th>
+</tr>
+
+<tr>
+<td>row 1,col1</td>
+<td>row1,col2</td>
+<td>row1,col3</td>
+</tr>
+<tr>
+<td>row2,col1</td>
+<td>row 2,col2 </td>
+<td>row2,col3</td>
+</tr>
+<tr>
+<t>row 3 ,col1</td>
+<t>row 3 ,col2</td>
+<<t>row 3 ,col3</td>
+</tr>
+</table>
+
+<a href ="#bookmark_name "<go to book mark</a>
+
+<head >
+<title>using image in webpage </title>
+</head>
+<body>
+<p>simple image insert</p>
+<img src ="a.jpg"/>
+</body>
+</html>
+
+
+
 
 

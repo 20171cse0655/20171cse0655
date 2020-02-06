@@ -59,13 +59,85 @@
 <head >
 <title>using image in webpage </title>
 </head>
-<body>
-<p>simple image insert</p>
+<body>insert</p>
 <img src ="a.jpg"/>
 </body>
 </html>
 
 
+<html>
+<head>
+<title>html table colpan/rowspan</title>
+</head>
+
+<body>
+<table border="1" bgcolor ="yellow:">
+<tr>
+<th>column 1</th>
+<th>column 2</th>
+<th>column 3</th>
+</tr>
+<tr>
+<td rowspan="2">row 1 cell 1</td>
+<td>row 1  cell 2 </td>
+<td>row 1 cell 3</td>
+</tr>
+<tr>
+<td>row 2 cell 2</td>
+<td>row 2 cell 3</td>
+</tr>
+<tr>
+<td colspan="3">row 3 cell 1</td>
+</tr>
+</table>
+</body>
+<a href="mailto:abc@example.com">send email</a>
+</html>
+<html>
+<head>
+<title>setting font size</title>
+</head>
+<body>
+<font size="1">font size="1"</font>br/>
+<font size="2">font size="2"</font>br/>
+<font size="3">font size="3"</font>br/>
+<font size="4">font size="4"</font>br/>
+<font size="5">font size="5"</font>br/>
+<font size="6">font size="6"</font>br/>
+<font size="7">font size="7"</font>br/>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<title>html marquee tag</title>
+</head>
+<body>
+<marquee>this is basic example of amrquee</marquee>
+</body>
+</html>
+<body>
+<marquee direction ="right ">this text will scroll from left to right</marquee>
+</body>
+<body>
+<marquee direction="up">this text will scroll from bottom to up "<marquee>
+</body>
+<tagname style="property:value;">
+<body style ="background - color :poweblue;">
+<h1 style="color:blue;">this is a heading </h1>
+<p style ="color:red;">this is a pragraph.</p>
+<h1 style="font -faamily:vardana;">this is a heading </h1>
+<p style="font family:courier ;">this is a paragraph ></p>
+<h1 style ="font-family:courier ;">this is a paragraph.</p>
+<h1 style ="font -size 160%;"this is para </p>
+<p syle ="text -align : cetre ;">centred paragraph .</p>
 
 
 
+<a href="default.asp">
+<img src="a.jpg" alt="image as link :" syle="width :42 ;height:42px;border;0;">\
+<p><img src="smiley.gif" alt="smiley face" 
+style ="float:right;width ;42px;height ;42px;">
+the 
